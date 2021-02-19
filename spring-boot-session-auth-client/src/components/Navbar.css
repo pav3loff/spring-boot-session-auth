@@ -1,0 +1,13 @@
+.navbar-main-container {
+  background-color: #362c2b;
+  padding: 5px;
+}
+
+.navbar-leftside-buttons-container {
+  display: inline;
+}
+
+.navbar-rightside-buttons-container {
+  display: inline;
+  float: right;
+}
